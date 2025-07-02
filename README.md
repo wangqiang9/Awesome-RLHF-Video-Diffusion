@@ -1,7 +1,7 @@
 # RLHF-Video-Diffusion
 
 ## Table of Contents
-- [Pose Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#pose-control)
+- [Base Model](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#pose-control)
 - [Audio Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#audio-control)
 
 
