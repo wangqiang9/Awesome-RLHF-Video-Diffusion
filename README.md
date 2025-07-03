@@ -1,20 +1,64 @@
 # RLHF-Video-Diffusion
 
 ## Table of Contents
-- [Base Model](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#pose-control)
-- [Audio Control](https://github.com/wangqiang9/Awesome-Controllable-Video-Diffusion#audio-control)
+- [Base Model with RLHF]()
+- [DPO]()
+- [GRPO]()
+- [Reward Guidance]()
 
 
-## Pose Control
+## Base Model with RLHF
 
-UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer
+Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model
 
-[📄 Paper](https://arxiv.org/abs/2504.11289) | [💻 Code](https://github.com/ali-vilab/UniAnimate-DiT)
+[📄 Paper](https://arxiv.org/abs/2504.08685)
 
-OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models
+Seedance 1.0: Exploring the Boundaries of Video Generation Models
 
-[📄 Paper](http://arxiv.org/abs/2502.01061) | [🌐 Project Page](https://omnihuman-lab.github.io/) 
+[📄 Paper](https://arxiv.org/abs/2506.09113)
 
-EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation
+Skyreels-v2: Infinite-length film generative model
 
-[📄 Paper](https://arxiv.org/abs/2411.10061) | [🌐 Project Page](https://github.com/antgroup/echomimic_v2) | [💻 Code](https://github.com/antgroup/echomimic_v2)
+[📄 Paper](https://arxiv.org/abs/2504.13074) | [💻 Code](https://github.com/SkyworkAI/SkyReels-V2)
+
+Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model
+
+[📄 Paper](https://arxiv.org/abs/2502.10248) | [🌐 Project Page](https://yuewen.cn/videos) | [💻 Code](https://github.com/stepfun-ai/Step-Video-T2V)
+
+## DPO
+
+Improving Video Generation with Human Feedback
+
+[📄 Paper](https://arxiv.org/abs/2501.13918) | [🌐 Project Page](https://gongyeliu.github.io/videoalign/) | [💻 Code](https://github.com/CIntellifusion/VideoDPO)
+
+VideoDPO: Omni-Preference Alignment for Video Diffusion Generation
+
+[📄 Paper](https://arxiv.org/html/2412.14167v1) | [🌐 Project Page](https://videodpo.github.io/) | [💻 Code](https://github.com/KwaiVGI/VideoAlign)
+
+DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models
+
+[📄 Paper](https://arxiv.org/html/2506.03517v1)
+
+AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation
+
+[📄 Paper](https://arxiv.org/abs/2506.11144) | [🌐 Project Page](https://alignhuman.github.io/)
+
+Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimization and Temporal Motion Modulation
+
+[📄 Paper](https://arxiv.org/abs/2505.23525) | [💻 Code](https://github.com/xyz123xyz456/hallo4)
+
+## GRPO
+
+DanceGRPO: Unleashing GRPO on Visual Generation
+
+[📄 Paper](https://arxiv.org/abs/2505.07818) | [🌐 Project Page](https://dancegrpo.github.io/) | [💻 Code](https://github.com/XueZeyue/DanceGRPO)
+
+Flow-GRPO: Training Flow Matching Models via Online RL
+
+[📄 Paper](https://arxiv.org/abs/2505.05470) | [🌐 Project Page](https://gongyeliu.github.io/Flow-GRPO/) | [💻 Code](https://github.com/yifan123/flow_grpo)
+
+## Reward Guidance
+
+GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning
+
+[📄 Paper](https://arxiv.org/html/2506.10639v1) | [🌐 Project Page](https://gigavideo-1.github.io/) | [💻 Code](https://github.com/GigaAI-research/GigaVideo-1)
