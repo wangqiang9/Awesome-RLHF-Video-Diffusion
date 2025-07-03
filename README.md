@@ -1,11 +1,10 @@
 # RLHF-Video-Diffusion
 
 ## Table of Contents
-- [Base Model with RLHF]()
-- [DPO]()
-- [GRPO]()
-- [Reward Guidance]()
-
+- [Base Model with RLHF](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#base-model-with-rlhf)
+- [DPO](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#dpo)
+- [GRPO](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#grpo)
+- [Reward Guidance](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#reward-guidance)
 
 ## Base Model with RLHF
 
