@@ -1,4 +1,4 @@
-# RLHF-Video-Diffusion
+# Awesome-RLHF-Video-Diffusion
 
 ## Table of Contents
 - [Base Model with RLHF](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#base-model-with-rlhf)
