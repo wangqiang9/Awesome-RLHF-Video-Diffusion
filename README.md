@@ -46,6 +46,10 @@ Hallo4: High-Fidelity Dynamic Portrait Animation via Direct Preference Optimizat
 
 [📄 Paper](https://arxiv.org/abs/2505.23525) | [💻 Code](https://github.com/xyz123xyz456/hallo4)
 
+LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment
+
+[📄 Paper](https://arxiv.org/pdf/2412.04814) | [🌐 Project Page](https://codegoat24.github.io/LiFT/) | [💻 Code](https://github.com/CodeGoat24/LiFT)
+
 ## GRPO
 
 DanceGRPO: Unleashing GRPO on Visual Generation
