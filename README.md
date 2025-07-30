@@ -52,6 +52,10 @@ LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment
 
 ## GRPO
 
+MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE
+
+[📄 Paper](https://arxiv.org/abs/2507.21802) | [🌐 Project Page](https://tulvgengenr.github.io/MixGRPO-Project-Page/) | [💻 Code](https://github.com/Tencent-Hunyuan/MixGRPO)
+
 DanceGRPO: Unleashing GRPO on Visual Generation
 
 [📄 Paper](https://arxiv.org/abs/2505.07818) | [🌐 Project Page](https://dancegrpo.github.io/) | [💻 Code](https://github.com/XueZeyue/DanceGRPO)
