@@ -5,6 +5,7 @@
 - [DPO](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#dpo)
 - [GRPO](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#grpo)
 - [Reward Guidance](https://github.com/wangqiang9/RLHF-Video-Diffusion/blob/main/README.md#reward-guidance)
+- [Libraries and Tools](https://github.com/wangqiang9/Awesome-RLHF-Video-Diffusion/blob/main/README.md#libraries-and-tools)
 
 ## Base Model with RLHF
 
@@ -69,3 +70,7 @@ Flow-GRPO: Training Flow Matching Models via Online RL
 GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning
 
 [📄 Paper](https://arxiv.org/html/2506.10639v1) | [🌐 Project Page](https://gigavideo-1.github.io/) | [💻 Code](https://github.com/GigaAI-research/GigaVideo-1)
+
+## Libraries and Tools
+
+- [VeRL-Omni](https://github.com/verl-project/verl-omni) — RL post-training framework for diffusion and omni-modality models, with recipes for FlowGRPO, DanceGRPO, and more. [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
